@@ -1,0 +1,87 @@
+/*
+* @Author: Lheyue
+* @Date:   2017-03-27 19:00:37
+* @Last Modified by:   Lheyue
+* @Last Modified time: 2017-03-28 17:03:38
+*/
+*{
+    padding:0;
+    margin:0;
+}
+.div_left{
+    width:350px;
+    height:560px;
+    /*background-color:gray;*/
+    margin-left:30px;
+
+    float:left;
+
+}
+.div_right{
+    width:900px;
+    height:560px;
+    margin-left:46px;
+
+
+    float:left;
+
+}
+.msg{
+    color:rgba(173,173,173,1);
+    text-indent:35px;/*首行缩进*/
+    float:right;
+}
+.input_sort{
+    width:50px;
+    border:1px solid dimgray;
+    height:18px;
+    margin-top:5px;
+    margin-left:10px;
+}
+
+.button_sort{
+    width:100px;
+    margin:10px auto;
+    text-align:center;
+    line-height:36px;
+    font-size:14px;
+    border-radius:5px;
+    font-weight:700;
+    cursor:pointer;
+    border:1px solid dimgray;
+    color:dimgray;
+    background-color:lightgray;
+    margin-right:50px;
+}
+.submit_type{
+    float:right;
+
+}
+.div_head{
+    width:100%;
+    height:57px;
+    margin:0 auto;
+
+    background-color:lightgray;
+}
+.div_body{
+    width:1400px;
+    /*height:2500px;*/
+
+    margin:5px auto;
+    /*background-color:lightgray;*/
+}
+.display_time_rear{
+    font-size:18px;
+    color:dimgray;
+     text-indent:15px;
+
+
+}
+.text1{
+    font-size:22px;
+}
+.text2{
+    text-indent:25px;
+    font-weight:normal;/*去掉加粗*/
+}
